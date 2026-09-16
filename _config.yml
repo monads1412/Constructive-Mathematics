@@ -5,3 +5,6 @@ url: "https://monads1412.github.io"
 baseurl: "/Constructive-Mathematics"
 
 theme: minima
+
+titles_from_headings:
+  strip_title: true
